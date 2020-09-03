@@ -1,1 +1,1 @@
-Download file on this dir
+on the Release
