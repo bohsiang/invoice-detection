@@ -21,4 +21,7 @@ other-links:http://59.110.234.163:9990/static/models/chineseocr/
 ## 参考
 
 chineseocr : https://github.com/chineseocr/chineseocr
+
 number_detection_recognition : https://github.com/yl305237731/number_detection_recognition
+
+
